@@ -9,6 +9,6 @@ oltre a dare visibilità al tuo server tramite la pagina dei server protetti e i
 
 GLOBAN è la nuova piattaforme di protezione, più server sono connessi alla rete più vengono bloccati cheater/modder all'accesso alla rete.
 
-Sè un server segnala cheater/modder più non potranno più entrare nei server aderenti al sistema.
+Sè un server segnala cheater/modder non potranno più entrare nei server aderenti al sistema.
 
 Per saperne di più collegati al sito: https://globan.link/
