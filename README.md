@@ -12,3 +12,5 @@ GLOBAN è la nuova piattaforme di protezione, più server sono connessi alla ret
 Sè un server segnala cheater/modder non potranno più entrare nei server aderenti al sistema.
 
 Per saperne di più collegati al sito: https://globan.link/
+
+<img width="1138" height="928" alt="Gemini_Generated_Image_hdKKK8o4zhd8o4zhd8o" src="https://github.com/user-attachments/assets/b89ea84e-0f80-4d89-a13c-5d80a895e5a8" />
