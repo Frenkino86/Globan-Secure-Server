@@ -14,7 +14,7 @@ GLOBAN = {
     -- Senza di essa il server non potrà comunicare con il sito e non potrà bloccare i giocatori bannati dal sito.
     ApiKey = '',
 
-    -- ID del server GLOBAN collegato alla API key (visibile nel pannello Admin > Server).
+    -- ID del server GLOBAN collegato alla API key
     -- Lascia vuoto solo se la key è già assegnata e non usi più server con la stessa key.
     ServerId = '',
     -----------------------------------------------------------------------------
@@ -23,7 +23,7 @@ GLOBAN = {
 
 
     -----------------------------------------------------------------------------
-    -- Registra gli ingressi e le uscite dei player nella sezione Admin > Server log.
+    -- Registra gli ingressi e le uscite dei player
     PlayerEventLogsEnabled = true,
 
     -- Webhook Discord per ingressi e uscite dei player (vuoto = disattivato).
