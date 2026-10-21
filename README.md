@@ -7,7 +7,7 @@ La piattaforma offre strumenti per gestire e monitorare i ban (solo ai proprieta
 consultare i profili dei player e ricevere reclami, 
 oltre a dare visibilità al tuo server tramite la pagina dei server protetti e il sistema di voti per i premi in game.
 
-GLOBAN è la nuova piattaforme di protezione, più server sono connessi alla rete più vengono bloccati cheater/modder all'accesso alla rete.
+GLOBAN è la nuova piattaforma di protezione, più server sono connessi alla rete più vengono bloccati cheater/modder all'accesso alla rete.
 
 Sè un server segnala cheater/modder non potranno più entrare nei server aderenti al sistema.
 
